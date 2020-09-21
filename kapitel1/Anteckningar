@@ -1,0 +1,10 @@
+//Ett program skapad i java kompileras till bytekod vilket går att köras på vilken dator/operativsystem som helst OM
+datorn har en JVM (Java Virtual Machine) instlalerad. JVM interprerar bytekod till maskinkod som kan exekveras av just
+den datorn.
+
+//Källkod->kompilera->bytkod->JVM->Maskinkod->Exekveras
+
+//sträng = ""
+// om du vill skriva ut citattecken -->
+
+Programblock använd måsvinge men det som ligger där i ska ha semikolon.
