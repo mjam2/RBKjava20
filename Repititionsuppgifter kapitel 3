@@ -1,0 +1,8 @@
+RF 3.1
+int [] talfalt = new int[4];
+int[] talfalt = {0,1,2,3};
+sout("Första talet är "+talfalt[1]);
+
+
+RF 3.2
+Det finns mer metoder och operator + är enklare att använda. (Strängens längd behöver inte anges.)
