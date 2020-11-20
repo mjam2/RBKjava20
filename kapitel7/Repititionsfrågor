@@ -1,0 +1,12 @@
+RF 7.1
+Med if-satsen
+
+RF 7.2
+if (60>vikt<70){
+vikt+= 1
+}
+
+RF 7.3
+if (60<vikt>70){
+vikt-= 1
+}
