@@ -1,0 +1,20 @@
+Övningsfrågor 2.1
+
+a) 20 byte
+b) 8 byte
+c) 6 byte
+
+Övningsfrågor 2.2
+a) Felet är att "int månad = "juni";" är skriven med fel data typ man skulle ha skrivit det som "String månad = "juni";"
+b) f saknas
+c) Saknas citattecken
+
+Övningsfrågor 2.3
+a) double b) int c)char d)double
+e) String f) Strubg g) int
+h)int i) double j) int
+
+Övningsfrågor 2.4
+a) 4
+b) 50
+c) "1.5"

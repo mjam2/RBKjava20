@@ -1,0 +1,26 @@
+Sid 22 i boken:
+
+RF1.1:
+Kompilering är processen då datorn omvandlar den av programmeraren skrivna källkoden till bytekod.
+Ibland blir det kompileringsfel, det är då källkoden inte uppfyller språkets syntax.
+Ett exempel på kompileringsfel är då det saknas ett ; i slutet av en sats/instruktion.
+
+RF1.2:
+Interpretering även kallad JIT kompilering (Just In Time) är det sista steget inom kompliering och sker när man vill
+köra ett program på olika operativsystem då låter man själva datorn göra det sista översättningssteget.
+
+RF1.3: Ett program som är händelsestyrt körs hela tiden men ingenting händer tills användare gör något.
+
+RF1.4: En variabel är
+
+RF1.5: Mellanslag, tabbar, radbrytningar har ingen direkt betydelse i programkod det används bara för att göra det
+enklare att läsa koden.
+
+RF1.6: fel 1. Det saknas ";" från paranteser
+       fel 2. Det ska vara "main" inte "Main"
+       fel 3. Text anges med dubbla citat tecken t.ex "Hej" inte 'Hej'
+
+RF1.7: Man kan få kompileringsfel, exekveringsfel och logiskafel.
+
+RF1.8: Koda kompilera
+       och exekvera
